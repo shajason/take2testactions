@@ -1,0 +1,3 @@
+- assignmentName: Updated simple Jupyter grading
+  section:  ["Module 1", "Updated simple Jupyter grading"]
+  paths: ['Jupyter1/**'] 
