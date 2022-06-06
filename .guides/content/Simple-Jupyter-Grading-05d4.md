@@ -1,4 +1,4 @@
 ##
 
 
-Collapse this window using the **Collapse** button in the upper left hand corner.
+Collapse this window using the **Collapse** button in the upper left hand corner. Just adding something.
