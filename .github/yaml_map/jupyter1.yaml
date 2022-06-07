@@ -1,3 +1,3 @@
 - assignmentName: Simple Notebook with Guide
   section:  ["Module 1", "Updatedjupyter"]
-  paths: ['Jupyter1', '.codio-jupyter'] 
+  paths: ['Jupyter1/**', '.codio-jupyter'] 
